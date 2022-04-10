@@ -15,9 +15,8 @@ Comandos abordados durante o curso:
 
 Ferramentas utilizadas durante o curso:
 
-[.NET software development kit](https://dotnet.microsoft.com/en-us/download)
-
-[Visual Studio Code](https://code.visualstudio.com/download)
+- [.NET software development kit](https://dotnet.microsoft.com/en-us/download)
+- [Visual Studio Code](https://code.visualstudio.com/download)
 
 <div>
    <img align="center" alt="yuri-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
